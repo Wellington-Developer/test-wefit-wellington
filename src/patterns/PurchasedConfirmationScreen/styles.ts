@@ -36,7 +36,6 @@ export const PurchasedConfirmationWrapper = styled.div`
 
     @media screen and (max-width: 500px) {
         & div {
-            border: 1px solid red;
 
             & h1 {
                 max-width: 200px;
